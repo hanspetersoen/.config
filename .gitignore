@@ -7,3 +7,11 @@
 # exept neovim folder and subfolders
 !nvim
 !nvim/**
+
+# exept alacritty and subfolders
+!alacritty
+!alacritty/**
+
+# except bspwm and subfolders
+!bspwm
+!bspwm/**
