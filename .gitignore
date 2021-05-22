@@ -17,6 +17,11 @@
 !bspwm/bspwmrc
 !bspwm/autostart
 
+#
+!sxhkd
+!sxhkd/sxhkdrc
+!sxhkd/sxhkdrc-minimal
+
 # polybar
 !polybar
 !polybar/config
