@@ -9,9 +9,11 @@
 !nvim/**
 
 # exept alacritty and subfolders
-!alacritty
-!alacritty/**
+!alacritty/alacritty.yml
 
 # except bspwm and subfolders
-!bspwm
-!bspwm/**
+!bspwm/bspwmrc
+
+# polybar
+!polybar/config
+!polybar/launch
