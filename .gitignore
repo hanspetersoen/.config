@@ -1,0 +1,9 @@
+# ignore everything
+*
+
+# except gitignore file itself
+!.gitignore
+
+# exept neovim folder and subfolders
+!nvim
+!nvim/**
